@@ -42,7 +42,9 @@ createPlatform(200 , 200, 100 , 15);
 createPlatform(300 , 100, 100 , 15);
     // TODO 3 - Create Collectables
 createCollectable('diamond',750,375);
-createPlatform('kennedi', 250 , 200);
+createCollectable('diamond',350,100);
+createCollectable('diamond',900,700);
+
 
 
     
